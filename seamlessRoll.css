@@ -1,0 +1,35 @@
+*{
+	margin:0;
+	padding:0;
+	border:0;}
+#box{
+	width:340px;
+	height:220px;
+	background:#F69;
+	margin:100px auto;
+	position:relative;
+	overflow:hidden;
+	}
+#box img{
+	width:85px;
+	height:220px;
+	}
+#box ul{
+	height:220px;
+	position:absolute;
+	top:0px;
+	left:0px;
+	}
+#box ul li{
+	float:left;
+	list-style:none;}
+#btn1{
+	position:absolute;
+	top:210px;
+	left:570px;
+	}
+#btn2{
+	position:absolute;
+	top:210px;
+	right:570px;
+	}
